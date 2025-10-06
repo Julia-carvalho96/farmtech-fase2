@@ -47,14 +47,15 @@ Simula o cultivo de **milho**, que requer:
 
 ## 💧 Resultados dos testes
 
+
 **Cenário A – Irrigação ativada:**  
-![Cenário A](circuito/Cena1rio A.png)
+![Cenário A](circuito/CenarioA.png)
 
 **Cenário B – Umidade alta (não irriga):**  
-![Cenário B](circuito/Cenario B.png)
+![Cenário B](circuito/CenarioB.png)
 
 **Cenário C – Nutriente ou pH fora da faixa:**  
-![Cenário C](circuito/Cenario C.png)
+![Cenário C](circuito/CenarioC.png)
 
 ---
 
