@@ -52,7 +52,7 @@ Simula o cultivo de **milho**, que requer:
 ![Cenário A](circuito/CenarioA.png)
 
 **Cenário B – Umidade alta (não irriga):**  
-![Cenário B](circuito/CenarioB.png)
+![Cenário B](circuito/CenarioBcorreto.png)
 
 **Cenário C – Nutriente ou pH fora da faixa:**  
 ![Cenário C](circuito/CenarioC.png)
