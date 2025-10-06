@@ -69,5 +69,9 @@ Arquivo principal: [`codigo_esp32/farmtech_irrigacao.ino`](codigo_esp32/farmtech
 
 ---
 
+🔗 **Repositório do projeto no GitHub:**  
+[https://github.com/Julia-carvalho96/farmtech-fase2](https://github.com/Julia-carvalho96/farmtech-fase2)
+
+
 ## 👩🏻‍💻 Integrante
 - Julia Duarte de Carvalho
